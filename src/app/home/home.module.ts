@@ -4,6 +4,7 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { ProfileComponent } from './profile/profile.component';
 import { SearchComponent } from './search/search.component';
 import { LogoComponent } from './logo/logo.component';
+import { NotificationsComponent } from './notifications/notifications.component';
 
 
 
@@ -12,7 +13,8 @@ import { LogoComponent } from './logo/logo.component';
     NavBarComponent,
     ProfileComponent,
     SearchComponent,
-    LogoComponent
+    LogoComponent,
+    NotificationsComponent
   ],
   imports: [
     CommonModule
